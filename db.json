@@ -5,14 +5,7 @@
         "categoreyname": "Rice",
         "price": 150,
     
-    },
-    {
-        "mealname": "Chinies Rice",
-        "menuId": 3,
-        "categoreyname": "Rice",
-        "price": 160,
-       
     }
- 
+    
   
 ]
