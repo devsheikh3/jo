@@ -18,36 +18,7 @@
         "mealImage": "/Content/Cookprofile/Screenshot 2020-06-22 at 8.56.06 AM.png",
         "availibility": true,
         "availibiltyTime": "2020-06-25T14:32:30.8339395"
-    },
-    {
-        "mealname": "Koftay",
-        "menuId": 3,
-        "categoreyname": "Desi",
-        "price": 100,
-        "details": "awdadaw",
-        "mealImage": "/Content/Cookprofile/Screenshot 2020-06-22 at 8.56.06 AM.png",
-        "availibility": true,
-        "availibiltyTime": "2020-06-25T14:33:07.2824387"
-    },
-    {
-        "mealname": "Aluu Gosht",
-        "menuId": 3,
-        "categoreyname": "Desi",
-        "price": 150,
-        "details": "awdawdaw",
-        "mealImage": "/Content/Cookprofile/Screenshot 2020-06-22 at 8.56.06 AM.png",
-        "availibility": true,
-        "availibiltyTime": "2020-06-25T14:35:09.4590531"
-    },
-    {
-        "mealname": "asd",
-        "menuId": 3,
-        "categoreyname": "qwr",
-        "price": 129,
-        "details": "heaby",
-        "mealImage": "/Content/Cookprofile/IMG_20200524_121938.jpg",
-        "availibility": true,
-        "availibiltyTime": "2020-06-26T11:35:47.2242476"
     }
+ 
   
 ]
