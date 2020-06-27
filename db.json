@@ -1,10 +1,15 @@
 {"response":[
-    {
-        "mealname": "Biryani",
-        "menuId": 3,
-        "categoreyname": "Rice",
-        "price": 150
-    }
     
-  
-]}
+        "mealname": "Garam Chaye",
+        "menuId": 1,
+        "categoreyname": "Hot Drink",
+        "price": 150,
+        "details": "Achy wali Chaye",
+        "mealImage": "/Content/Cookprofile/Screenshot 2020-06-22 at 8.56.06 AM.png",
+        "availibility": true,
+        "availibiltyTime": "2020-06-26T19:46:46.1178724",
+        "weeklyDay": "Monday",
+        "weeklytype": "Lunch",
+        "weeklydatetime": "2020-06-26T19:46:54.0622677",
+        "active": true
+    ]}
