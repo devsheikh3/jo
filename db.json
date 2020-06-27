@@ -1,4 +1,4 @@
-{"response":{
+{"response":[
     
         "mealname": "Garam Chaye",
         "menuId": 1,
@@ -12,4 +12,4 @@
         "weeklytype": "Lunch",
         "weeklydatetime": "2020-06-26T19:46:54.0622677",
         "active": true
-    }}
+    ]}
