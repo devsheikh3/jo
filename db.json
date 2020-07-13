@@ -42,48 +42,7 @@
       "status": true,
       "dateTime": "2020-06-13T12:02:31.048096"
     },
-    {
-      "taskId": 4,
-      "taskName": "asd",
-      "id": 0,
-      "postTask": null,
-      "price": 588,
-      "location": "asd",
-      "details": "asd",
-      "taskStatus": null,
-      "taskType": "",
-      "dueDate": "0001-01-01T00:00:00",
-      "status": true,
-      "dateTime": "2020-06-13T12:07:05.0588502"
-    },
-    {
-      "taskId": 5,
-      "taskName": "asd",
-      "id": 0,
-      "postTask": null,
-      "price": 588,
-      "location": "",
-      "details": "asd",
-      "taskStatus": null,
-      "taskType": "",
-      "dueDate": "0001-01-01T00:00:00",
-      "status": true,
-      "dateTime": "2020-06-13T12:08:21.9871162"
-    },
-    {
-      "taskId": 6,
-      "taskName": "Post acar",
-      "id": 0,
-      "postTask": null,
-      "price": 1500,
-      "location": "shalimar",
-      "details": "goood car needs to be posted",
-      "taskStatus": null,
-      "taskType": "",
-      "dueDate": "0001-01-01T00:00:00",
-      "status": true,
-      "dateTime": "2020-06-13T13:24:14.0301959"
-    },
+    
     {
       "taskId": 7,
       "taskName": "Car wash",
@@ -112,34 +71,8 @@
       "status": true,
       "dateTime": "2020-06-13T13:26:17.2198136"
     },
-    {
-      "taskId": 9,
-      "taskName": "Car wash",
-      "id": 0,
-      "postTask": null,
-      "price": 1500,
-      "location": "shalimar town",
-      "details": "clean it neatly",
-      "taskStatus": null,
-      "taskType": "",
-      "dueDate": "0001-01-01T00:00:00",
-      "status": true,
-      "dateTime": "2020-06-13T13:27:02.6820842"
-    },
-    {
-      "taskId": 10,
-      "taskName": "car wash",
-      "id": 0,
-      "postTask": null,
-      "price": 1500,
-      "location": "shalimar town",
-      "details": "car wash neatly",
-      "taskStatus": null,
-      "taskType": "",
-      "dueDate": "0001-01-01T00:00:00",
-      "status": true,
-      "dateTime": "2020-06-13T13:29:24.1953956"
-    },
+ 
+   
     {
       "taskId": 11,
       "taskName": "car wash",
@@ -153,20 +86,7 @@
       "dueDate": "0001-01-01T00:00:00",
       "status": true,
       "dateTime": "2020-06-13T13:29:59.4201598"
-    },
-    {
-      "taskId": 12,
-      "taskName": "car wash",
-      "id": 0,
-      "postTask": null,
-      "price": 1500,
-      "location": "shalimar town",
-      "details": "neat clean required",
-      "taskStatus": null,
-      "taskType": "",
-      "dueDate": "0001-01-01T00:00:00",
-      "status": true,
-      "dateTime": "2020-06-13T13:35:59.6548709"
     }
+ 
   ]
 }
