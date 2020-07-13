@@ -1,52 +1,17 @@
 {
-  "response": [
-    
-    {
-      "taskId": 2,
-      "taskName": "asd",
-      "id": 0,
-      "postTask": null,
-      "price": 0,
-      "location": "jkhkjh",
-      "details": null,
-      "taskStatus": null,
-      "taskType": null,
-      "dueDate": "0001-01-01T00:00:00",
-      "status": true,
-      "dateTime": "2020-06-13T12:00:36.6177127"
-    },
-
-    
-    {
-      "taskId": 7,
-      "taskName": "Car wash",
-      "id": 0,
-      "postTask": null,
-      "price": 1500,
-      "location": "shalimar town",
-      "details": "clean it neatly",
-      "taskStatus": null,
-      "taskType": "",
-      "dueDate": "0001-01-01T00:00:00",
-      "status": true,
-      "dateTime": "2020-06-13T13:26:06.7721976"
-    },
-    {
-      "taskId": 8,
-      "taskName": "Car wash",
-      "id": 0,
-      "postTask": null,
-      "price": 1500,
-      "location": "shalimar town",
-      "details": "clean it neatly",
-      "taskStatus": null,
-      "taskType": "",
-      "dueDate": "0001-01-01T00:00:00",
-      "status": true,
-      "dateTime": "2020-06-13T13:26:17.2198136"
-    }
-   
- 
- 
-  ]
+    "response": [
+        {
+            "name": "plumber required",
+            "price": 3400,
+            "userName": "umerkhaldi",
+            "datetime": "2020-07-10T17:15:55.2270139",
+            "duedate": "0001-01-01T00:00:00",
+            "detail": "plumber bht acha hona chaye",
+            "location": "384-E Johar Town Lahore، Block E Phase 1 Johar Town, Lahore, Punjab 54700, Pakistan",
+            "posterName": "umerkhaldi",
+            "taskID":0,
+            "comments": [],
+            "offers": []
+        }
+    ]
 }
