@@ -1,19 +1,6 @@
 {
   "response": [
-    {
-      "taskId": 1,
-      "taskName": "TaskName",
-      "id": 0,
-      "postTask": null,
-      "price": 0,
-      "location": "adadaw",
-      "details": null,
-      "taskStatus": null,
-      "taskType": null,
-      "dueDate": "0001-01-01T00:00:00",
-      "status": true,
-      "dateTime": "2020-06-13T11:49:54.2414985"
-    },
+    
     {
       "taskId": 2,
       "taskName": "asd",
@@ -28,20 +15,7 @@
       "status": true,
       "dateTime": "2020-06-13T12:00:36.6177127"
     },
-    {
-      "taskId": 3,
-      "taskName": "TaskName",
-      "id": 0,
-      "postTask": null,
-      "price": 1200,
-      "location": "adadaw",
-      "details": "adwda",
-      "taskStatus": "fghj",
-      "taskType": "adwaw",
-      "dueDate": "0001-01-01T00:00:00",
-      "status": true,
-      "dateTime": "2020-06-13T12:02:31.048096"
-    },
+
     
     {
       "taskId": 7,
