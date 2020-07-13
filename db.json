@@ -3,13 +3,14 @@
         {
             "name": "plumber required",
             "price": 3400,
+            "TaskStatus":"Assigned",
             "userName": "umerkhaldi",
             "datetime": "2020-07-10T17:15:55.2270139",
             "duedate": "0001-01-01T00:00:00",
             "detail": "plumber bht acha hona chaye",
             "location": "384-E Johar Town Lahore، Block E Phase 1 Johar Town, Lahore, Punjab 54700, Pakistan",
             "posterName": "umerkhaldi",
-            "taskID":0,
+            "TaskId":0,
             "comments": [],
             "offers": []
         }
