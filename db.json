@@ -44,23 +44,9 @@
       "dueDate": "0001-01-01T00:00:00",
       "status": true,
       "dateTime": "2020-06-13T13:26:17.2198136"
-    },
- 
-   
-    {
-      "taskId": 11,
-      "taskName": "car wash",
-      "id": 0,
-      "postTask": null,
-      "price": 1500,
-      "location": "shalimar town",
-      "details": "car wash neatly",
-      "taskStatus": null,
-      "taskType": "",
-      "dueDate": "0001-01-01T00:00:00",
-      "status": true,
-      "dateTime": "2020-06-13T13:29:59.4201598"
     }
+   
+ 
  
   ]
 }
